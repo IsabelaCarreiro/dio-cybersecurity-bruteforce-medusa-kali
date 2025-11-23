@@ -19,3 +19,13 @@ As duas máquinas devem estar configuradas na mesma rede **Host-Only**.
 Após iniciar ambas as VMs:
 
 ### No Kali:
+ifconfig
+### No Metasploitable:
+ifconfig
+
+Os IPs devem estar na mesma faixa, por exemplo:
+
+- Kali Linux → 192.168.56.101  
+- Metasploitable → 192.168.56.102
+
+Se estiver assim, a comunicação está funcionando.

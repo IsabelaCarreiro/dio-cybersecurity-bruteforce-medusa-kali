@@ -1,19 +1,18 @@
-# Anotações de Estudos e Reflexões
+# Anotações de Estudos
+
 
 ## O que aprendi
-- Como configurar ambientes vulneráveis de forma segura
-- Funcionamento do Medusa em diferentes tipos de ataque
-- Diferença entre força bruta, password spraying e enumeração de usuários
-- Como identificar serviços com Nmap
-- Como estruturar wordlists
+- Como operar o Medusa
+- Como identificar serviços abertos
+- Como simular ataques sem prejudicar sistemas reais
 
-## Dificuldades encontradas
-- Configuração de rede Host-Only no VirtualBox
-- Parâmetros do módulo web-form do Medusa
-- Encontrar o caminho correto para testar DVWA
+
+## Dificuldades
+- Configuração de rede no VirtualBox
+- Parametrização do módulo web-form
+
 
 ## Próximos passos
-- Testar Hydra como alternativa ao Medusa
-- Criar wordlists personalizadas maiores
-- Estudar SQL Injection e outras vulnerabilidades do DVWA
-- Melhorar scripts de automação
+- Testar Hydra
+- Criar wordlists mais completas
+- Explorar outros serviços vulneráveis
